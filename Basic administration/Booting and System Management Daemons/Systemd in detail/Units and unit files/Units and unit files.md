@@ -19,5 +19,14 @@ ExecStart=/usr/bin/rsync --daemon --no-detach
 [Install]
 WantedBy=multi-user.target
 ```
+> This is the format used by MS-DOS **.ini** files
 
+Unit files can live in several places:
+- **/usr/lib/systemd/system** is the main place where packages deposit their unit files during installation.
+- **/lib/systemd/system** is used on some systems instead.
 
+Local unit files and customizations can go in **/etc/systemd/system**
+
+By convention, unit files are named with a suffix that according to the type of unit being configured.
+For example, service units have a **.service** suffix and timers use **.timer**.
+Within the unit file, [unit] apply to all kinds of units, but [Service] can appear only in the context of a particular unit type.

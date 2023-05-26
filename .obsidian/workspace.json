@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -146,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,13 +213,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2354210ec9c8128",
+  "active": "3aa16ecfb1f8c72b",
   "lastOpenFiles": [
+    "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
     "Basic administration/Booting and System Management Daemons/Booting and System Management Daemons.md",
     "Basic administration/Overall knowledge/Overall Knowledge.md",
     "Index.md",
-    "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
     "Context/spacesLastSync.log",
     "Context",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files",
