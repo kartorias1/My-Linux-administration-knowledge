@@ -27,7 +27,8 @@
     "networkd",
     "journald",
     "logind",
-    "automount"
+    "automount",
+    "systemd** how"
   ],
   "promptDelete": false,
   "pdfExportSettings": {
@@ -35,5 +36,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "spellcheck": false
 }
