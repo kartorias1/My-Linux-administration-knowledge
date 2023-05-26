@@ -37,12 +37,9 @@
             "id": "a2354210ec9c8128",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "contextPath": "Basic administration/Overall knowledge"
               }
             }
           }
@@ -101,8 +98,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ea91798442737541",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "0bcd7307b3a8e3ab",
@@ -137,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,8 +212,10 @@
   },
   "active": "a2354210ec9c8128",
   "lastOpenFiles": [
-    "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files",
     "Basic administration/Booting and System Management Daemons/Booting and System Management Daemons.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail",

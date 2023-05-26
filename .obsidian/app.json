@@ -26,7 +26,8 @@
     "Systemd",
     "networkd",
     "journald",
-    "logind"
+    "logind",
+    "automount"
   ],
   "promptDelete": false,
   "pdfExportSettings": {
