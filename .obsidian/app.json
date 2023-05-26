@@ -1,0 +1,38 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "spellcheckDictionary": [
+    "passwd",
+    "gzip",
+    "usr",
+    "manpath",
+    "If **which",
+    "whereis",
+    "filesystem",
+    "mlocate",
+    "locate ",
+    "tcpdump",
+    "wget",
+    "DBAs",
+    "nonrelational",
+    "DBAs",
+    "init",
+    "systemd",
+    "filesystems",
+    "grub-mkconfig",
+    "e",
+    "mkconfig",
+    "Usermode",
+    "Systemd",
+    "networkd",
+    "journald",
+    "logind"
+  ],
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

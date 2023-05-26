@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "46b0fc7067d53c03",
+    "type": "split",
+    "children": [
+      {
+        "id": "72b8ff989b6aea84",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ade4b1051d976ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f54da852ff21625",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e63b07692d40ea06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a559c7df850b391",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca3b6b30e13d3702",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 558
+  },
+  "right": {
+    "id": "a93d571a501ce2ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "6de1bad19ddda95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b31b4fd0c889a07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7b5912e67d8aa68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2955498ff4762c8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a80f48bcf02484a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd5f27c3a3c5b6b3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "72b8ff989b6aea84",
+  "lastOpenFiles": [
+    "Basic administration/Booting and System Management Daemons/BIOS vs. UEFI/BIOS vs. UEFI.md",
+    "Basic administration/Booting and System Management Daemons/GRUB/GRUB configuration/GRUB configuration.md",
+    "Basic administration/Booting and System Management Daemons/GRUB/GRUB configuration/Pasted image 20220927195634.png",
+    "Pasted image 20220927195725.png",
+    "Basic administration/Booting and System Management Daemons/GRUB/The GRUB command line/Pasted image 20220927205414.png",
+    "Basic administration/Booting and System Management Daemons/GRUB/The GRUB command line/The GRUB command line.md",
+    "Basic administration/Booting and System Management Daemons/GRUB/Kernel options/Kernel options.md",
+    "Basic administration/Booting and System Management Daemons/Boot process overview/Boot process overview.md",
+    "Basic administration/Booting and System Management Daemons/Boot loaders/Boot loaders.md",
+    "Basic administration/Booting and System Management Daemons/BIOS vs. UEFI/UEFI/UEFI.md"
+  ]
+}
