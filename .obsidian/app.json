@@ -31,7 +31,8 @@
     "systemd** how",
     "subcommand",
     "systemctl",
-    "subcommands"
+    "subcommands",
+    "WantedBy"
   ],
   "promptDelete": false,
   "pdfExportSettings": {
