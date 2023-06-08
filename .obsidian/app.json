@@ -30,7 +30,8 @@
     "automount",
     "systemd** how",
     "subcommand",
-    "systemctl"
+    "systemctl",
+    "subcommands"
   ],
   "promptDelete": false,
   "pdfExportSettings": {
