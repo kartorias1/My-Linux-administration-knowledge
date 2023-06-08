@@ -38,3 +38,6 @@ The *enabled* and *disabled* states apply only to unit files that live in one of
 >Such unit's status is listed as **static**.
 >They only become active if activated by hand or named as a dependency of other active units.
 
+The *linked* unit files can be addressed by commands or named as dependencies, but they are not full citizens of the ecosystem and have some no-table quirks.
+
+The *masked* status means "administratively blocked". **systemd** knows about the unit, but has been forbidden from activation it on acting on any of its configuration directives by **systemctl mask**.
