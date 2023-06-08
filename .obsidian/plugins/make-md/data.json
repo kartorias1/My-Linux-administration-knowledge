@@ -37,9 +37,11 @@
   "expandedFolders": {
     "Linux Admin": [
       "Basic administration/Overall knowledge/Linux Distributions",
-      "Basic administration",
       "Basic administration/Booting and System Management Daemons",
-      "Basic administration/Booting and System Management Daemons/System management daemons"
+      "Basic administration",
+      "Basic administration/Booting and System Management Daemons/Systemd in detail",
+      "Basic administration/Booting and System Management Daemons/Systemd in detail/systemctl, manage systemd",
+      "Basic administration/Booting and System Management Daemons/Systemd in detail/systemctl, manage systemd"
     ]
   },
   "expandedSpaces": [
@@ -76,7 +78,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1685110522480,
+  "spacesAutoBackupLast": 1686228356899,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

@@ -28,7 +28,9 @@
     "journald",
     "logind",
     "automount",
-    "systemd** how"
+    "systemd** how",
+    "subcommand",
+    "systemctl"
   ],
   "promptDelete": false,
   "pdfExportSettings": {

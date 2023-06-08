@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/systemctl, manage systemd/systemctl, manage systemd.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/systemctl, manage systemd/systemctl, manage systemd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/systemctl, manage systemd/systemctl, manage systemd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md"
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/systemctl, manage systemd/systemctl, manage systemd.md"
               }
             }
           },
@@ -219,8 +219,14 @@
   },
   "active": "a2354210ec9c8128",
   "lastOpenFiles": [
-    "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
+    "Basic administration/Booting and System Management Daemons/Systemd in detail/systemctl, manage systemd/systemctl, manage systemd.md",
+    "Basic administration/Booting and System Management Daemons/Systemd in detail/systemctl, manage systemd",
+    "Basic administration/Booting and System Management Daemons/Systemd in detail/Untitled.md",
+    "Basic administration/Booting and System Management Daemons/System management daemons/Responsibilities of init/Responsibilities of init.md",
+    "Basic administration/Booting and System Management Daemons/System management daemons/Implementation of init/Implementation of init.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
+    "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
+    "Basic administration/Booting and System Management Daemons/System management daemons/System management daemons.md",
     "Basic administration/Booting and System Management Daemons/Booting and System Management Daemons.md",
     "Basic administration/Overall knowledge/Overall Knowledge.md",
     "Index.md",
@@ -229,12 +235,9 @@
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files",
     "Basic administration/Booting and System Management Daemons/Systemd in detail",
     "Basic administration/Booting and System Management Daemons/System management daemons/Systemd/Systemd.md",
-    "Basic administration/Booting and System Management Daemons/System management daemons/System management daemons.md",
     "Basic administration/Booting and System Management Daemons/System management daemons/Traditional init/Traditional init.md",
     "Basic administration/Booting and System Management Daemons/System management daemons/Systemd",
-    "Basic administration/Booting and System Management Daemons/System management daemons/Implementation of init/Implementation of init.md",
     "Basic administration/Booting and System Management Daemons/System management daemons/Traditional init",
-    "Basic administration/Booting and System Management Daemons/System management daemons/Responsibilities of init/Responsibilities of init.md",
     "Basic administration/Booting and System Management Daemons/System management daemons/Implementation of init",
     "CAPS - 03-11.md",
     "CAPS - 07-11.md",
