@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Targets/Targets.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
