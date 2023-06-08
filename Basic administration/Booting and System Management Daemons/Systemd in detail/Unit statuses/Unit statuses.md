@@ -27,3 +27,14 @@ Dec 12 00:51:40 ulsah systemd[1]: Stopped CUPS Scheduler.
 | **masked**   | Banished from the **systemd** world from a logical perspective   |
 | **static**   | Depended upon by another unit; has no install requirement        |
 
+The *enabled* and *disabled* states apply only to unit files that live in one of **systemd's system** directories (not linked in by a symbolic link) and that have an [Install] section in their unit files.
+
+*Enabled* units should perhaps really be though of as "installed", meaning that the directives in the [Install] section have been executed, and the unit is wired up to its normal activation triggers.
+
+*Disabled* state is something of a misnomer because the only thing that's actually disabled is the normal activation path.
+
+>[!note]
+>Many units have no installation procedure, so they can't truly be said to be enabled or disabled.
+>Such unit's status is listed as **static**.
+>They only become active if activated by hand or named as a dependency of other active units.
+
