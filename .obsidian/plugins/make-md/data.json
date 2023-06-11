@@ -39,7 +39,8 @@
       "Basic administration/Overall knowledge/Linux Distributions",
       "Basic administration/Booting and System Management Daemons",
       "Basic administration",
-      "Basic administration/Booting and System Management Daemons/Systemd in detail"
+      "Basic administration/Booting and System Management Daemons/Systemd in detail",
+      "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units"
     ]
   },
   "expandedSpaces": [
