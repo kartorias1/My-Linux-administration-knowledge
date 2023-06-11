@@ -44,7 +44,3 @@ graphical.target
 >```shell
 >$ systemctl list-units --type=target
 >```
-
-
-
-```

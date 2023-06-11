@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units/Dependencies among units.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "0bcd7307b3a8e3ab",
@@ -129,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308
+    "width": 275
   },
   "right": {
     "id": "a93d571a501ce2ea",
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units/Dependencies among units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units/Dependencies among units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md"
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units/Dependencies among units.md"
               }
             }
           },
@@ -218,9 +219,11 @@
   },
   "active": "a2354210ec9c8128",
   "lastOpenFiles": [
+    "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
+    "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units/Dependencies among units.md",
+    "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Targets/Targets.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Unit statuses/Unit statuses.md",
-    "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Targets",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Unit statuses",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/systemctl, manage systemd/systemctl, manage systemd.md",
@@ -241,7 +244,6 @@
     "Basic administration/Booting and System Management Daemons/System management daemons/Traditional init/Traditional init.md",
     "Basic administration/Booting and System Management Daemons/System management daemons/Systemd",
     "Basic administration/Booting and System Management Daemons/System management daemons/Traditional init",
-    "Basic administration/Booting and System Management Daemons/System management daemons/Implementation of init",
     "CAPS - 03-11.md",
     "CAPS - 07-11.md",
     "Basic administration/Booting and System Management Daemons/GRUB/GRUB configuration/GRUB configuration.md",

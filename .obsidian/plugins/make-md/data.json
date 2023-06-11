@@ -39,9 +39,7 @@
       "Basic administration/Overall knowledge/Linux Distributions",
       "Basic administration/Booting and System Management Daemons",
       "Basic administration",
-      "Basic administration/Booting and System Management Daemons/Systemd in detail",
-      "Basic administration/Booting and System Management Daemons/Systemd in detail/Targets",
-      "Basic administration/Booting and System Management Daemons/Systemd in detail/Unit statuses"
+      "Basic administration/Booting and System Management Daemons/Systemd in detail"
     ]
   },
   "expandedSpaces": [
@@ -78,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1686230776605,
+  "spacesAutoBackupLast": 1686489044673,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
