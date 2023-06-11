@@ -29,3 +29,22 @@ Because units directly support dependency management, no additional machinery is
 | 5            | **graphical.target**  | Multiuser mode with networking and GUI |
 | 6            | **reboot.target**     | System reboot                          |
 
+To see the target system boots into by default, use **get-default** subcommand:
+```shell
+$ systemctl get-default
+graphical.target
+```
+
+>[!note]
+>Most Linux distributions boot to **graphical.target** by default, which isn't appropriate for servers that don't need a GUI. This can easily changed:
+>```shell
+>$ sudo systemctl set-default multi-user.target
+>```
+>To see available targets:
+>```shell
+>$ systemctl list-units --type=target
+>```
+
+
+
+```
