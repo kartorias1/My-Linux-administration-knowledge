@@ -7,3 +7,4 @@
 3. [[Unit statuses]]
 4. [[Targets]]
 5. [[Dependencies among units]]
+6. [[Execution order]]

@@ -40,7 +40,7 @@
       "Basic administration/Booting and System Management Daemons",
       "Basic administration",
       "Basic administration/Booting and System Management Daemons/Systemd in detail",
-      "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units"
+      "Basic administration/Booting and System Management Daemons/Systemd in detail/Execution order"
     ]
   },
   "expandedSpaces": [
@@ -77,7 +77,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1686489044673,
+  "spacesAutoBackupLast": 1686490166582,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

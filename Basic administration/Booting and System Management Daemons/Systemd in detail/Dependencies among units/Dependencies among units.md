@@ -25,4 +25,4 @@ The command
 ```bash
 sudo systemctl add-wants multi-user.target my.local.service
 ```
-adds a dependency 
+adds a dependency on **my.local.service** to the standard multiuser target, ensuring that the service will be started whenever the system enters multiuser mode.
