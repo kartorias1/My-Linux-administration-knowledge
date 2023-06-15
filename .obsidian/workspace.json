@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
-                "mode": "source",
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units/Dependencies among units.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units/Dependencies among units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units/Dependencies among units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md"
+                "file": "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units/Dependencies among units.md"
               }
             }
           },
@@ -219,10 +219,10 @@
   },
   "active": "a2354210ec9c8128",
   "lastOpenFiles": [
+    "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Execution order/Execution order.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units/Dependencies among units.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Execution order",
-    "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Units and unit files/Units and unit files.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Unit statuses/Unit statuses.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Dependencies among units",
