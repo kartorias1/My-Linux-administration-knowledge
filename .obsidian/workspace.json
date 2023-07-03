@@ -6,6 +6,7 @@
       {
         "id": "18772e1334d2f152",
         "type": "tabs",
+        "dimension": 76.74271229404309,
         "children": [
           {
             "id": "b9cc22246c8b24b0",
@@ -48,6 +49,21 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "88b5eebefc81c5e1",
+        "type": "tabs",
+        "dimension": 23.25728770595691,
+        "children": [
+          {
+            "id": "f3c82bfe14331451",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,7 +233,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2354210ec9c8128",
+  "active": "a7b5912e67d8aa68",
   "lastOpenFiles": [
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Systemd in detail.md",
     "Basic administration/Booting and System Management Daemons/Systemd in detail/Execution order/Execution order.md",
